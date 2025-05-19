@@ -1,5 +1,9 @@
-                                                                                          # 👋 Hi, I’m Anto Delgin Anston
-                                                                                         ## www.linkedin.com/in/antoc ## antodelgin02@gmail.com
+<h1 align="center">👋 Hi, I'm Anto Delgin Anston C</h1>
+
+<p align="center">
+  <a href="www.linkedin.com/in/antoc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:antodelgin02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 
 - 👀 I’m interested in ...
