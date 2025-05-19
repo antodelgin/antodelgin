@@ -31,9 +31,7 @@
 
 ### 🔹 Online Bus Ticket Booking Application
 
-  A Spring Boot application that allows users to book bus tickets easily and securely.
-  &nbsp;&nbsp;&nbsp;&nbsp;Indented text using spaces
-
+  &nbsp;&nbsp;&nbsp;&nbsp;A Spring Boot application that allows users to book bus tickets easily and securely.
 
   **Key Features:**  
   
