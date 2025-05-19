@@ -41,7 +41,7 @@
 
 ### 🔹 Patient Medicine and Appointment System  
 
-              A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.
+  A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.
 
 **Key Features:** 
 
