@@ -27,7 +27,6 @@
 
 ---
 
-## 🚀 My Tech Stack
 
 
 
