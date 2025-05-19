@@ -27,9 +27,6 @@
 
 ---
 
-📫 **Let’s connect:**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or email me at [YOUR-EMAIL@gmail.com](mailto:YOUR-EMAIL@gmail.com)
-
 <!---
 antodelgin/antodelgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
