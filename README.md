@@ -18,7 +18,7 @@
 
 ## 🚀 My Tech Stack
 
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Frontend**: HTML, CSS, JavaScript
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Frontend**: HTML, CSS, JavaScript
 -  🔹 **Backend**: Java, Spring Boot, REST APIs  
 -  🔹 **Database**: MySQL  
 -  🔹 **Tools**: Git, IntelliJ IDEA
