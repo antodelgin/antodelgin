@@ -23,8 +23,6 @@
 -  🔹 **Database**: MySQL  
 -  🔹 **Tools**: Git, IntelliJ IDEA
 
-💡 I enjoy solving real-world problems through code, continuously learning, and working collaboratively on impactful projects.
-
 ---
 
 ## 💻 Projects
