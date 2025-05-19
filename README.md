@@ -35,9 +35,9 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Key Features:**  
   
--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role-based access control  
-- Booking management functionality  
-- Built using Spring Boot, Spring Security, Thymeleaf, and MySQL  
+  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role-based access control  
+  - Booking management functionality  
+  - Built using Spring Boot, Spring Security, Thymeleaf, and MySQL  
 
 ### 🔹 Patient Medicine and Appointment System  
 
