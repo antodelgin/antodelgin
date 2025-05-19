@@ -27,6 +27,27 @@
 
 ---
 
+## 💻 Projects
+
+### 🔹 Online Bus Ticket Booking Application
+A Spring Boot application that allows users to book bus tickets easily and securely.  
+**Key Features:**
+- Role-based access control
+- Booking management functionality
+- Built using Spring Boot, Spring Security, Thymeleaf, and MySQL
+
+### 🔹 Patient Medicine and Appointment System
+A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.  
+**Key Features:**
+- Appointment booking and medication management
+- Secure login with role-based access (admin, doctor, patient)
+- Built using Spring Boot, Spring Security, Thymeleaf, and MySQL
+
+---
+
+> 📌 *These projects helped me apply real-world backend/frontend skills and understand full-stack architecture.*
+
+
 <!---
 antodelgin/antodelgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
