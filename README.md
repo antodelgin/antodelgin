@@ -34,10 +34,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Spring Boot application that allows users to book bus tickets easily and securely.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Key Features:**  
-  
-    - Role-based access control  
-    - Booking management functionality  
-    - Built using Spring Boot, Spring Security, Thymeleaf, and MySQL  
+
+  <ul style="margin-left: 400px;">
+  <li>Indented Bullet 1</li>
+  <li>Indented Bullet 2</li>
+</ul>
 
 ### 🔹 Patient Medicine and Appointment System  
 
