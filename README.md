@@ -52,7 +52,7 @@ A Spring Boot-based system where patients can book appointments and doctors can 
 
 ---
 
-> 📌 *These projects helped me apply real-world backend/frontend skills and understand full-stack architecture.*
+📌 *These projects helped me apply real-world backend/frontend skills and understand full-stack architecture.*
 
 
 <!---
