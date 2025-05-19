@@ -44,7 +44,7 @@
 
   A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.
 
-**Key Features:** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Key Features:** 
 
 - Appointment booking and medication management  
 - Secure login with role-based access (admin, doctor, patient)  
