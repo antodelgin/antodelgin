@@ -30,7 +30,7 @@
 ## 💻 Projects
 
 ### 🔹 Online Bus Ticket Booking Application  
-<div style="margin-left: 20px; margin-bottom: 16px;">
+<div style="margin-left: 70px; margin-bottom: 16px;">
   A Spring Boot application that allows users to book bus tickets easily and securely.
 </div>
 
