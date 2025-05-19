@@ -30,11 +30,11 @@
 ## 💻 Projects
 
 ### 🔹 Online Bus Ticket Booking Application
-A Spring Boot application that allows users to book bus tickets easily and securely.  
-**Key Features:**
-- Role-based access control
-- Booking management functionality
-- Built using Spring Boot, Spring Security, Thymeleaf, and MySQL
+            A Spring Boot application that allows users to book bus tickets easily and securely.  
+   **Key Features:**
+  - Role-based access control
+  - Booking management functionality
+  - Built using Spring Boot, Spring Security, Thymeleaf, and MySQL
 
 ### 🔹 Patient Medicine and Appointment System
 A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.  
