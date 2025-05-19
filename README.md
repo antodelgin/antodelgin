@@ -18,10 +18,10 @@
 
 ## 🚀 My Tech Stack
 
-- 🔹 **Frontend**: HTML, CSS, JavaScript
-- 🔹 **Backend**: Java, Spring Boot, REST APIs  
-- 🔹 **Database**: MySQL  
-- 🔹 **Tools**: Git, IntelliJ IDEA
+    🔹 **Frontend**: HTML, CSS, JavaScript
+    🔹 **Backend**: Java, Spring Boot, REST APIs  
+    🔹 **Database**: MySQL  
+    🔹 **Tools**: Git, IntelliJ IDEA
 
 💡 I enjoy solving real-world problems through code, continuously learning, and working collaboratively on impactful projects.
 
