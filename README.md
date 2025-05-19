@@ -40,9 +40,8 @@
 - Built using Spring Boot, Spring Security, Thymeleaf, and MySQL  
 
 ### 🔹 Patient Medicine and Appointment System  
-<div style="margin-left: 20px; margin-bottom: 16px;">
-  A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.
-</div>
+
+              A Spring Boot-based system where patients can book appointments and doctors can manage schedules and prescriptions.
 
 **Key Features:** 
 
