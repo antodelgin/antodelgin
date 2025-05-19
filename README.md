@@ -35,9 +35,9 @@
 </div>
 
   **Key Features:**  
-      - JWT-based authentication and role-based access control  
-      - Booking management functionality  
-      - Built using Spring Boot, Spring Security, Thymeleaf, and MySQL  
+    - JWT-based authentication and role-based access control  
+    - Booking management functionality  
+    - Built using Spring Boot, Spring Security, Thymeleaf, and MySQL  
 
 ### 🔹 Patient Medicine and Appointment System  
 <div style="margin-left: 20px; margin-bottom: 16px;">
