@@ -1,20 +1,22 @@
 <h1 align="center">👋 Hi, I'm Anto Delgin Anston C</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/antoc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:antodelgin02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<h3 align="center">👨‍💻 Fresher | Aspiring Java Full Stack Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  I'm a passionate and dedicated graduate in Information Technology from <strong>SRM Valliammai Engineering College</strong>, with a CGPA of <strong>8.27</strong>. <br>
+  I have completed a certification in <strong>Java Full Stack Development</strong> from GUVI (IITM Research Park). <br>
+  I'm eager to begin my journey in software development, focusing on building robust backend and interactive frontend applications.<br>
+  My goal is to continuously learn, grow, and contribute to innovative tech solutions as an aspiring Java full stack developer.
 </p>
 
 ---
 
-## 👨‍🎓 Fresher | Aspiring Java Full Stack Developer | Tech Enthusiast
-
-🎓 **B.Tech - Information Technology**  
-📍 **SRM Valliammai Engineering College**  
-📈 CGPA: **8.27**  
-🎖️ **Certified in Java Full Stack Development – GUVI (IITM Research Park)**
-
-I’m a passionate and self-motivated tech enthusiast aspiring to become a successful Java Full Stack Developer. With a strong academic foundation and hands-on training in full stack development, I have gained skills in:
+## 🚀 My Tech Stack
 
 - 🔹 **Frontend**: HTML, CSS, JavaScript
 - 🔹 **Backend**: Java, Spring Boot, REST APIs  
@@ -27,7 +29,6 @@ I’m a passionate and self-motivated tech enthusiast aspiring to become a succe
 
 ## 🚀 My Tech Stack
 
-### 🖥 Programming Languages
 
 
 - 👀 I’m interested in ...
